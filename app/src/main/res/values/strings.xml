@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">raji</string>
+    <string name="Play">Play</string>
+    <string name="CheckWord">CheckWord</string>
+    <string name="end_game">Thank you for Playing</string>
+    <string name="PlayAgain">PlayAgain</string>
+</resources>
